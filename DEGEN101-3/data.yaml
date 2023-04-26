@@ -1,0 +1,12 @@
+names:
+- Chip
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: degen101
+  url: https://universe.roboflow.com/pocketsight-r1e4c/degen101/dataset/3
+  version: 3
+  workspace: pocketsight-r1e4c
+test: test/images
+train: train/images
+val: valid/images
